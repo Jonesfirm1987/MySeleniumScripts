@@ -1,0 +1,4 @@
+MySeleniumScripts
+=================
+
+First Git repository
